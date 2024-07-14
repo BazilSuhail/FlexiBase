@@ -1,0 +1,82 @@
+{
+  _id: 1305
+  Name: Bazil
+  Status: Current
+  CGPA: 3.11
+  Semster: 4
+  University: ITU
+}
+
+{
+  _id: 1700
+  Semester: 2
+  Name: John
+  Status: Current
+  CGPA: 3.45
+  University: MIT
+}
+
+{
+  _id: 2007
+  Semester: 1
+  Name: Emily
+  Status: Current
+  CGPA: 3.78
+  University: Harvard
+}
+
+{
+  _id: 2024
+  Semester: 3
+  Name: Michael
+  Status: Current
+  CGPA: 2.95
+  University: Stanford
+}
+
+{
+  _id: 2053
+  Semester: 4
+  Name: Sarah
+  Status: Current
+  CGPA: 3.67
+  University: Princeton
+}
+
+{
+  _id: 2073
+  Semester: 2
+  Name: David
+  Age: 20
+  Status: Current
+  CGPA: 3.22
+  University: Yale
+}
+
+{
+  _id: 2089
+  Semester: 1
+  Name: Anna
+  Status: Current
+  CGPA: 3.89
+  University: Caltech
+}
+
+{
+  _id: 2109
+  Semester: 3
+  Name: Chris
+  Status: Current
+  CGPA: 2.75
+  University: Columbia
+}
+
+{
+  _id: 2125
+  Semester: 6
+  Name: Laura
+  Status: Current
+  CGPA: 3.95
+  University: University of Pennsylvania
+}
+
