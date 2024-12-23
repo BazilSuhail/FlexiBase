@@ -1,7 +1,7 @@
 
 # FlexiBase Shell
 
-#### Welcome to FlexiBase Shell, a simple and efficient database management tool.
+#### Welcome to FlexiBase Shell, a simple and efficient database management tool I created as a semester project in my 3rd semster under supervision of [Dr. Khawaja Umar Suleman](https://www.linkedin.com/in/umar-suleman/).
 
 FlexiBase Shell is a lightweight, efficient database management tool designed for simplicity and performance. Built from the ground up, all database structures, including indexing, retrieval, and key-value storage, are custom-designed to meet the needs of modern data management.
 
@@ -14,7 +14,7 @@ FlexiBase Shell is a lightweight, efficient database management tool designed fo
  </a>
 
 ### Live Demo
-Check out the all details of this shell at [Fleibase](https://https://entitysafe.netlify.app/pages/AppList/-O2Lqfm-dWrxvRaaP_pW/). 
+Check out the all details of this shell at [Flexibase](https://entitysafe.netlify.app/pages/AppList/-O2Lqfm-dWrxvRaaP_pW). 
 
 ### Key Features
 - Custom-Built Structures: All data structures, including B-trees for indexing and hashmaps for key-value search, are implemented from scratch to ensure optimal performance and flexibility.
